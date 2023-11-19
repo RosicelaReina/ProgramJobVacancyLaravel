@@ -1,0 +1,17 @@
+.bran-log{
+    padding:0 !important;
+    text-align: center;
+}
+.img-log{
+    width:135px !important;
+}
+
+.background-admin{
+
+    background-image: url("../../home/assets/img/background.jpg")!important;
+    background-size: contain !important;
+    background-repeat: repeat !important;
+    width:100% !important;
+    height:100vh !important;
+}
+
